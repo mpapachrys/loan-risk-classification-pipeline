@@ -44,4 +44,4 @@ This model successfully balances the bank's two main objectives:
 
 ***
 
-`![Results](./results.png)`
+`./results.png`
