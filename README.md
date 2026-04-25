@@ -1,4 +1,4 @@
-Project with @DimitrisPapachrysanthou
+Project with [@DimitrisPapachrysanthou](https://github.com/DimitrisPapachrysanthou)
 
 #  Credit Risk Analysis: Predicting Loan Defaults with XGBoost
 
