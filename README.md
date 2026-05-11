@@ -1,6 +1,5 @@
-Archived Project | Big Blue Data Academy
-
-*Status:* Completed June 2025. This project was developed as part of the curriculum at the Big Blue Data Academy. It is now maintained for portfolio purposes only.
+**Status:** Completed June 2025. 
+This project was developed as part of the curriculum at the Big Blue Data Academy. It is now maintained for portfolio purposes only.
 Project with [@DimitrisPapachrysanthou](https://github.com/DimitrisPapachrysanthou)
 
 #  Credit Risk Analysis: Predicting Loan Defaults with XGBoost
